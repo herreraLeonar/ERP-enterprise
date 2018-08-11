@@ -1,0 +1,4 @@
+[02-Dec-2015 18:49:03 UTC] PHP Parse error:  syntax error, unexpected 'Live' (T_STRING) in /home/sisporco/public_html/sistema/sysfrm/config.php on line 7
+[02-Dec-2015 18:49:39 UTC] PHP Parse error:  syntax error, unexpected 'Live' (T_STRING) in /home/sisporco/public_html/sistema/sysfrm/config.php on line 7
+[02-Dec-2015 18:52:24 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/sisporco/public_html/sistema/sysfrm/config.php on line 6
+[02-Dec-2015 19:18:00 UTC] PHP Parse error:  syntax error, unexpected 'Live' (T_STRING) in /home/sisporco/public_html/sistema/sysfrm/config.php on line 7
